@@ -1,0 +1,7 @@
+phase,description,start,end,beta_tilde,rho_tilde,r_squared
+Phase 1,Pre-lockdown → early lockdown,2020-02-29,2020-04-12,0.2879,0.002375,0.9974
+Phase 2,Lockdown effect,2020-04-13,2020-06-07,0.123,0.018067,0.7172
+Phase 3,Reopening + summer wave,2020-06-08,2020-08-31,0.1736,0.032044,0.9762
+Phase 4,Fall rise,2020-09-01,2020-11-14,0.2481,0.054101,0.7879
+Phase 5,Winter surge,2020-11-15,2021-01-15,0.1481,0.200653,0.8417
+Phase 6,Post-peak decline,2021-01-16,2021-03-07,0.2105,0.123737,0.9962
