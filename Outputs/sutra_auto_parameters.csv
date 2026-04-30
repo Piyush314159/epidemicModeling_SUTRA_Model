@@ -1,0 +1,9 @@
+phase,start_date,end_date,days,beta_tilde,rho_tilde,r_squared,description
+Phase 1,2020-02-29,2020-04-27,59,0.2261,0.004137,0.9879,auto-detected
+Phase 2,2020-04-28,2020-05-24,27,0.1202,0.017037,0.7857,auto-detected
+Phase 3,2020-05-25,2020-06-08,15,0.1771,0.011185,,auto-detected
+Phase 4,2020-06-09,2020-09-05,89,0.1711,0.033177,0.974,auto-detected
+Phase 5,2020-09-06,2020-10-01,26,,,,auto-detected
+Phase 6,2020-10-02,2020-12-06,66,0.1834,0.102043,0.9818,auto-detected
+Phase 7,2020-12-07,2020-12-31,25,0.2229,0.096111,0.9463,auto-detected
+Phase 8,2021-01-01,2021-03-07,66,0.2482,0.113633,0.9939,auto-detected (final)
